@@ -2,4 +2,5 @@ First paragraph of text in our first file (on local). Yayy!
 
 A second paragraph of text added on the web.
 
-A third paragraph of stuff to say to the wonderful class SJK15G. Something.
+A third paragraph of some awesome stuff to say to the wonderful class SJK15G. Something.
+
